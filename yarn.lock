@@ -1989,10 +1989,10 @@ kysely-planetscale@^1.4.0:
   dependencies:
     date-fns "^2.30.0"
 
-kysely@^0.26.3:
-  version "0.26.3"
-  resolved "https://registry.yarnpkg.com/kysely/-/kysely-0.26.3.tgz#45fdd0153d8c9418b0ea9a6f05ed46b95ed27678"
-  integrity sha512-yWSgGi9bY13b/W06DD2OCDDHQmq1kwTGYlQ4wpZkMOJqMGCstVCFIvxCCVG4KfY1/3G0MhDAcZsip/Lw8/vJWw==
+kysely@^0.28.14:
+  version "0.28.14"
+  resolved "https://registry.yarnpkg.com/kysely/-/kysely-0.28.14.tgz#94cb38767aea5dfa18ecea2137497560f276edf4"
+  integrity sha512-SU3lgh0rPvq7upc6vvdVrCsSMUG1h3ChvHVOY7wJ2fw4C9QEB7X3d5eyYEyULUX7UQtxZJtZXGuT6U2US72UYA==
 
 language-subtag-registry@~0.3.2:
   version "0.3.22"
